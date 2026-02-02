@@ -1,0 +1,17 @@
+s/\b(IDEO|IDU|idio)\b/IDO/gi
+s/\b(equinoa)\b/Equinor/gi
+s/\b(GFOS|CFOS|CIFOS|GIFOS|SCOS|chiffos|chipos|stifos|SE4|SC4|C-Force|cfo|Seaforce|C force|Shifos|C4|CHFOS|CIFO)\b/CFIHOS/gi
+s/\b(dex[pb][iy]|DECT-P|de?xpp?|DECB|DEXB|DexBID|the XP|Dexplay|Dixby)\b/DEXPI/gi
+s/\bDexBPRO\b/DEXPI Pro/gi
+s/\b(Dex P2)\b/DEXPI to/gi
+s/\b(DEXB2.0)\b/DEXPI 2.0/gi
+s/\bPNID\b/P\&ID/gi
+s/\bPNIDs\b/P\&ID's/gi
+s/\b(post-Caes[ae]r|PostCaeser|Posksisa)\b/POSC Caesar/gi
+s/\b(ECLAS|e-class)\b/ECLASS/gi
+s/\bStura\b/Stora/gi
+s/\b(Sturain[, \.\r\f]+so)\b/Stora Enso/gi
+s/\b(Stora and so|Sturain)\b/Stora Enso/gi
+s/\b(Cadmotic|Cadmagic)\b/Cadmatic/gi
+s/\b(S[UI]SML|Susumel|CISML)\b/SysML/gi
+s/\b(Akka)\b/Aker/gi
